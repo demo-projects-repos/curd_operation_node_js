@@ -1,0 +1,23 @@
+{
+  "name": "curd_node",
+  "version": "1.0.0",
+  "description": "CURD AND RESTFUL APIS NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CURD",
+    "RESTFUL",
+    "APIS"
+  ],
+  "author": "Nipun Agarwal",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "http": "0.0.1-security",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3"
+  }
+}
